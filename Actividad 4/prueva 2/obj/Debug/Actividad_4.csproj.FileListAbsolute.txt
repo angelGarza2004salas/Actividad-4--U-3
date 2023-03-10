@@ -1,0 +1,11 @@
+C:\Users\Angel - Gera\OneDrive\Escritorio\Programación 2\Actividad 4\prueva 2\obj\Debug\Actividad_4.csproj.AssemblyReference.cache
+C:\Users\Angel - Gera\OneDrive\Escritorio\Programación 2\Actividad 4\prueva 2\obj\Debug\Actividad_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel - Gera\OneDrive\Escritorio\Programación 2\Actividad 4\prueva 2\obj\Debug\Actividad_4.Form1.resources
+C:\Users\Angel - Gera\OneDrive\Escritorio\Programación 2\Actividad 4\prueva 2\obj\Debug\prueva_2.Properties.Resources.resources
+C:\Users\Angel - Gera\OneDrive\Escritorio\Programación 2\Actividad 4\prueva 2\obj\Debug\Actividad_4.csproj.GenerateResource.cache
+C:\Users\Angel - Gera\OneDrive\Escritorio\Programación 2\Actividad 4\prueva 2\obj\Debug\Actividad_4.csproj.CoreCompileInputs.cache
+C:\Users\Angel - Gera\OneDrive\Escritorio\Programación 2\Actividad 4\prueva 2\obj\Debug\prueva 2.exe
+C:\Users\Angel - Gera\OneDrive\Escritorio\Programación 2\Actividad 4\prueva 2\obj\Debug\prueva 2.pdb
+C:\Users\Angel - Gera\OneDrive\Escritorio\Programación 2\Actividad 4\prueva 2\bin\Debug\prueva 2.exe.config
+C:\Users\Angel - Gera\OneDrive\Escritorio\Programación 2\Actividad 4\prueva 2\bin\Debug\prueva 2.exe
+C:\Users\Angel - Gera\OneDrive\Escritorio\Programación 2\Actividad 4\prueva 2\bin\Debug\prueva 2.pdb
